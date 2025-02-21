@@ -9,6 +9,19 @@ My name is Lance Marciano Montojo. I am now a 3rd-year data science student at T
 These IPYNB 🗒 notebooks are part of my studies in the course 💻CPE 313 - Advanced Machine Learning and Deep Learning💻, along with files related to these notebooks.
 </p>
 
+In each activities, I gathered knowledge like:
+
+🤗 Image Representation & Transformation – I learned how to manipulate and convert images using OpenCV, inspect image properties, and extract regions of interest for feature analysis.
+
+📏 Edge & Contour Detection – I applied Canny edge detection and contour detection to highlight object boundaries, improving image analysis and object recognition.
+
+🫶 Shape Recognition – I used Hough Transform techniques to detect lines and circles, emphasizing the role of parameter tuning in improving detection accuracy.
+
+😯 Face Recognition & Preprocessing – I explored face recognition by testing different algorithms, highlighting the importance of dataset preparation and preprocessing for better accuracy.
+
+📹 Video Processing – I successfully captured, displayed, and saved video files using OpenCV, understanding how to configure video capture and implement user interactions.
+
+👀 Face & Eye Detection 😀 – I implemented real-time face and eye detection using Haar cascades, reinforcing how trained models and parameter adjustments improve feature detection.
 <br> - 📧 You can contact me at **qlmmontojo@tip.edu.ph**
 
 ## Summary of Learnings
