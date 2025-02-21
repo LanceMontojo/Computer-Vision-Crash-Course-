@@ -13,5 +13,5 @@ These IPYNB 🗒 notebooks are part of my studies in the course 💻CPE 313 - Ad
 
 ## Summary of Learnings
 <p align="left">
-I have learned
+Through these activities, I explored fundamental image processing techniques using OpenCV, including image representation, transformation, and feature extraction. I applied edge detection, contour detection, and shape recognition to analyze objects, demonstrating the importance of parameter tuning for accurate results. Additionally, I worked with video processing and face detection, reinforcing how dataset quality, model selection, and preprocessing impact recognition accuracy in computer vision applications.
 </p>
