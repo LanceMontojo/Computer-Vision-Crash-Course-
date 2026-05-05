@@ -22,7 +22,7 @@ In each activities, I gathered knowledge like:
 📹 Video Processing – I successfully captured, displayed, and saved video files using OpenCV, understanding how to configure video capture and implement user interactions.
 
 👀 Face & Eye Detection 😀 – I implemented real-time face and eye detection using Haar cascades, reinforcing how trained models and parameter adjustments improve feature detection.
-<br> - 📧 You can contact me at **qlmmontojo@tip.edu.ph**
+<br> - 📧 You can contact me at **montojolance01@gmail.com**
 
 ## Summary of Learnings
 <p align="left">
